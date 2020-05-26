@@ -14,3 +14,10 @@ newPRWelcomeComment: >
 firstPRMergeComment: >
   Congrats on merging your first pull request! We here at @codeforcroatia are proud of you!
 # It is recommend to include as many gifs and emojis as possible
+
+# Issue Template
+blank_issues_enabled: false
+contact_links:
+  - name: Code for Croatia
+    url: https://codeforcroatia.org/
+    about: Making our community a better place to live, work, and play through technology.
