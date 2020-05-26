@@ -6,3 +6,6 @@ contact_links:
   - name: GitHub Security Bug Bounty
     url: https://codeforcroatia.org/contact/
     about: Please report security vulnerabilities here.
+  - name: Code for Croatia
+    url: https://codeforcroatia.org/
+    about: Read more about our tech community.
