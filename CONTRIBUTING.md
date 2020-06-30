@@ -1,10 +1,16 @@
-## Contributing
+# Contributing
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
 Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the project's open source license.
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+
+## How to contribute
+
+We are really glad you're reading this, because we need volunteer developers to help this project come to fruition.
+
+If you haven't already, come find us on Slack ([CodeForCroatia](https://codeforcroatia.slack.com)) or Discourse forum ([Code for Croatia Diskurs](https://diskurs.codeforcroatia.org)). We want you working on things you're excited about.
 
 ## Submitting a pull request
 
